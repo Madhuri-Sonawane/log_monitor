@@ -1,0 +1,18 @@
+2025-11-28T04:20:20.661730+00:00 MadhuriSonawane kernel: RAS: Correctable Errors collector initialized.
+2025-11-28T04:20:20.662177+00:00 MadhuriSonawane kernel: WSL (189) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-28T04:20:20.674554+00:00 MadhuriSonawane systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T04:20:20.674558+00:00 MadhuriSonawane systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T04:20:21.388709+00:00 MadhuriSonawane snapd[189]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-28T05:00:01.642421+00:00 MadhuriSonawane kernel: RAS: Correctable Errors collector initialized.
+2025-11-28T05:00:01.643567+00:00 MadhuriSonawane systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T05:00:01.643569+00:00 MadhuriSonawane systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T05:00:47.605155+00:00 MadhuriSonawane kernel: WSL (191) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-28T05:03:29.146974+00:00 MadhuriSonawane systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T05:03:29.146980+00:00 MadhuriSonawane systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T05:03:29.147852+00:00 MadhuriSonawane kernel: RAS: Correctable Errors collector initialized.
+2025-11-28T05:04:14.483141+00:00 MadhuriSonawane kernel: WSL (189) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-28T10:59:41.732699+00:00 MadhuriSonawane systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T10:59:41.732703+00:00 MadhuriSonawane systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-28T10:59:41.734598+00:00 MadhuriSonawane kernel: RAS: Correctable Errors collector initialized.
+2025-11-28T11:00:00.337854+00:00 MadhuriSonawane snapd[168]: stateengine.go:161: state ensure error: decode new commands catalog: net/http: request canceled (Client.Timeout or context cancellation while reading body)
+2025-11-28T11:00:26.886028+00:00 MadhuriSonawane kernel: WSL (189) ERROR: CheckConnection: getaddrinfo() failed: -5
